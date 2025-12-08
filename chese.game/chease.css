@@ -1,0 +1,263 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 0px;
+}
+
+
+
+.chesone{
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+
+    border-image: url(1.png);
+
+
+}
+.chestwo{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+
+}
+.chesthree{
+
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+.chesfour{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat
+    ;
+    display: inline-block;
+}
+.chesfive{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+.chessix{
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+  
+
+}
+.chesseven{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+.cheseight{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat
+
+    
+    ;
+    display: inline-block;
+
+}
+.chesninne{
+    
+    width: 80px;
+    height: 50px;
+    background-color:black;
+    display: inline-block;
+
+}
+.chesten{
+
+    
+    width: 80px;
+    height: 50px;
+    background-color:wheat;
+    display: inline-block;
+}
+.chesele{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+.chestwe{
+    
+    width: 80px;
+    height: 50px;
+    background-color:wheat;
+    display: inline-block;
+}
+
+
+.chesthir{
+
+    
+    width: 80px;
+    height: 50px;
+    background-color:black;
+    display: inline-block;
+}
+.chesfout{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+}
+.chesfivt{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+
+.chessixt{
+
+    
+    width: 80px;
+    height: 50px;
+    background-color:wheat
+
+     ;
+    display: inline-block;
+}
+.chessevent{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+.cheseighty{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+}
+.chesnin{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+
+.chestwen{
+
+    
+    width: 80px;
+    height: 50px;
+    background-color:wheat ;
+    display: inline-block;
+}
+.chestweno{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+.chestwent{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+}
+
+    
+.chestweth{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+
+    
+.chesthirt{
+    
+    width: 80px;
+    height: 50px;
+    background-color: wheat;
+    display: inline-block;
+}
+
+    
+.chesfoty{
+    
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+}
+/* 
+.ches{
+    position: relative;
+    right: 200px;
+
+    
+}
+.two{
+position: relative;
+right: 470px;
+}
+.three{
+    position: relative;
+    right: 45px;
+    bottom: 380px;
+    left: 40px;
+
+}
+.four{
+    position: relative;
+    right: 100px;
+    bottom: 170px;
+
+}
+.five{
+    position:relative ;
+   
+    bottom:380px;
+    right: 40px
+    
+}
+.seven{
+    position: relative;
+    bottom: 220px;
+}
+.four{
+    position: relative;
+    left
+}
+
+
+
+
+
+
+
+ */
